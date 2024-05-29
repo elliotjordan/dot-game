@@ -83,11 +83,11 @@
 }
  .slider .slower {
 	 margin-right: 5px;
-	 background-image: url(turtle.png);
+	 background-image: url("turtle.png");
 }
  .slider .faster {
 	 margin-left: 5px;
-	 background-image: url(rabbit.png);
+	 background-image: url("rabbit.png");
 }
  #speedSlider {
 	 flex: 1 auto;
